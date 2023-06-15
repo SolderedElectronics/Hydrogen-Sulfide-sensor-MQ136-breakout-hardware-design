@@ -1,8 +1,8 @@
-## --- Product name --- Hardware design
+## Hydrogen Sulfide sensor MQ136 breakout Hardware design
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
-|      [--- product name ----](https://www.solde.red/SKU)      |
+|      [Buy Hydrogen Sulfide sensor MQ136 breakout](https://www.solde.red/333112)      |
 
 ------ product description ------
 
